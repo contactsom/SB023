@@ -1,0 +1,9 @@
+a=10 # Valid
+_a=10 # Valid
+_a10=10 # Valid
+
+_10=10 #
+
+_123 ONETWO=20 #Not Valid
+
+_ a=10 # #Not Valid

@@ -1,0 +1,10 @@
+1. You no need to define the data types in python explictely
+2. Python will take care automatically
+Q. How do developer know , what data types python accepted
+
+[] -> list
+{} -> set
+{K:V}-> Dictionary
+()->
+
+"" ->

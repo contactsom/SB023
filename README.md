@@ -5,7 +5,7 @@
 - **Start & End Date:** December 06, 2025  
 - **Class Type:** Weekend  
 - **Timings:** 07:30 pm to 11:30 pm IST  
-- **Total Sessions (9):** December 06,07,13,14
+- **Total Sessions (4):** December 06,07,13,14
 - **Session ID:** 93785934253  
 - **Class Category:** Programming Essentials  
 

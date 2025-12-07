@@ -6,7 +6,7 @@
 - **Class Type:** Weekend  
 - **Timings:** 07:30 pm to 11:30 pm IST  
 - **Total Sessions (4):** December 06,07,13,14
-- **Session ID:** 93785934253  
+- **Session ID:** 93330139474  
 - **Class Category:** Programming Essentials  
 
 ---
@@ -42,5 +42,5 @@ We already have another inline course designed — a **dedicated Advanced Python
 ---
 
 ## 📅 Note
-This repository contains materials, notes, and assignments for the **SB022 - Programming Essentials NOV 2025 batch 1** live weekend batch.  
+This repository contains materials, notes, and assignments for the **SB023 - Programming Essentials DEC 2025 batch 1** live weekend batch.  
 Please refer to the session recordings and shared notebooks for detailed explanations and exercises.

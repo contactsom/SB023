@@ -1,0 +1,12 @@
+myStr1="ABC"
+myStr2="""ABC"""
+myStr3='''ABC'''
+myStr4='ABC'
+print(myStr1)
+print(type(myStr1))
+print(myStr2)
+print(type(myStr2))
+print(myStr3)
+print(type(myStr3))
+print(myStr4)
+print(type(myStr4))

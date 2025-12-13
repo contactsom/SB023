@@ -1,0 +1,4 @@
+One small query instead of typing THEN we use : correct?
+
+for x in mylist:
+    print(x)

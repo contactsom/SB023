@@ -1,0 +1,4 @@
+no=[10,70,80,90]
+avg=sum(no)/len(no)
+print(avg)...
+sir is this right
